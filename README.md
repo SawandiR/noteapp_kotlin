@@ -1,1 +1,8 @@
-
+![1](https://github.com/SawandiR/noteapp_kotlin/assets/126375698/c1e3df96-8c9e-4d67-a9c2-148d3996d8af)
+![2](https://github.com/SawandiR/noteapp_kotlin/assets/126375698/d595fe24-3bea-4ef7-9cf1-444de996b86a)
+![3](https://github.com/SawandiR/noteapp_kotlin/assets/126375698/03c412aa-fa8b-4f78-9b0b-4e70eba85596)
+![4](https://github.com/SawandiR/noteapp_kotlin/assets/126375698/32ac13ea-f2bf-4201-ad7d-60f3477a7df2)
+![5](https://github.com/SawandiR/noteapp_kotlin/assets/126375698/f2b232ae-023c-448f-8d38-b00386955978)
+![6](https://github.com/SawandiR/noteapp_kotlin/assets/126375698/031a36e8-f7a3-4348-b030-629e05d588c6)
+![7](https://github.com/SawandiR/noteapp_kotlin/assets/126375698/b4dbbc48-fe82-47d5-b241-69372e9234ba)
+![login](https://github.com/SawandiR/noteapp_kotlin/assets/126375698/80712271-2a8a-4da5-8a57-bac3de5e40ea)
