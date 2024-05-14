@@ -1,12 +1,9 @@
-package com.shaluambasta.noteapp.utils
+package com.shaluambasta.noteapp
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.constraintlayout.widget.ConstraintLayout
-import com.shaluambasta.noteapp.AddNoteActivity
-import com.shaluambasta.noteapp.MainActivity
-import com.shaluambasta.noteapp.R
 
 class Login : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

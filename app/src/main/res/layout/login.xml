@@ -30,7 +30,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="84dp"
-        android:text="memory mindi"
+        android:text="MindMemo"
         android:textAlignment="center"
         android:textColor="@color/black"
         android:textSize="40sp"
